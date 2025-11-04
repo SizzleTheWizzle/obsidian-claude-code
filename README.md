@@ -150,6 +150,14 @@ Feel free to:
 - [Obsidian](https://obsidian.md/) (free)
 - [Claude Code](https://claude.ai/code) (for slash commands)
 
+## About the Creator
+
+Created by **Ashish Kulkarni**, Founder & CEO of [Platoona](https://platoona.com).
+
+**Platoona** is an AI-powered workspace where you can assemble teams of specialized AI agents, collaborate with them in real-time, automate workflows, and manage everything on an intelligent Kanban board. Think of it as your AI workforce management platform - bringing together multiple AI agents with different capabilities to tackle complex projects and streamline your work.
+
+This template emerged from building personal knowledge management workflows integrated with AI tools like Claude Code to maximize productivity and networked thinking.
+
 ## License
 
 MIT - Use freely for your personal knowledge management system.
