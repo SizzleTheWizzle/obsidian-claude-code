@@ -23,6 +23,79 @@ This template provides:
 - `/save` - Save content to your vault with proper organization
 - `/resource` - Add resources and references to topics
 
+## Command Usage Guide
+
+### `/day` - Interactive Daily Journaling
+Conversational daily note creation with smart linking.
+```
+/day
+```
+Claude will ask about your day, capture key insights, and create/update today's daily note with proper `[[wiki links]]` to relevant topics.
+
+### `/new` - Create Topic Notes
+Create new atomic topic notes with proper structure.
+```
+/new "Machine Learning"
+/new "Product Strategy"
+```
+Claude searches for existing related topics first, creates the new topic with the template, and adds relevant `[[links]]`.
+
+### `/research` - Deep Research
+Research any topic using web search and create linked notes.
+```
+/research "vector databases"
+/research "startup fundraising strategies"
+```
+Claude performs web searches, synthesizes findings into concise topic notes with sources and related `[[links]]`.
+
+### `/brainstorm` - Generate Ideas
+Creative brainstorming using your existing vault knowledge.
+```
+/brainstorm "new features for my app"
+/brainstorm "content ideas for next week"
+```
+Claude scans your vault, finds connections, and generates ideas by combining existing topics in novel ways.
+
+### `/log` - Quick Logging
+Fast logging to daily notes without conversation.
+```
+/log "Met with Sarah about Q4 planning"
+/log "Idea: gamification for onboarding flow"
+```
+Claude searches for existing topics, adds entry to today's daily note with proper `[[links]]`, and creates missing topic notes if needed.
+
+### `/answer` - Query Your Vault
+Answer questions using only your vault knowledge.
+```
+/answer "What did I learn about React hooks?"
+/answer "What are my thoughts on remote work?"
+```
+Claude searches your vault and provides concise answers with `[[links]]` to relevant notes. If knowledge gap exists, suggests using `/research`.
+
+### `/task` - Task Management
+Manage tasks in your `todo.md` checklist.
+```
+/task add "Review contract with legal team"
+/task list
+/task complete "Finish project proposal"
+```
+Claude searches vault for context, adds tasks with `[[wiki links]]` to related topics, and manages your minimal task list.
+
+### `/save` - Git Sync
+Quick git commit and push for your vault.
+```
+/save
+```
+Claude automatically fetches, pulls, commits with a smart message based on your changes, and pushes to remote.
+
+### `/resource` - Capture Resources
+Save articles, videos, or resources as linked notes.
+```
+/resource https://example.com/article
+/resource "YouTube video about AI agents" https://youtube.com/watch?v=...
+```
+Claude extracts content, creates summarized resource note with key insights and `[[links]]` to related vault topics.
+
 ### Vault Structure
 ```
 Daily Notes/   → One note per day (YYYY-MM-DD format)
